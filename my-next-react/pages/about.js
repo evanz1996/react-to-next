@@ -1,5 +1,5 @@
 import React from 'react';
-import { BlogCard1 } from '../../components/BlogCard1';
+import { BlogCard1 } from '../src/components/cards/BlogCard1';
 
 function about() {
   return (
